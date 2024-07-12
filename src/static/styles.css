@@ -62,6 +62,7 @@ ul li a      { text-decoration: none; }
 
 /* Buttons and Nav Tabs */
 a,
+.nav-link,
 .btn-tertiary {
   color: var(--link);
   text-decoration: none;
@@ -119,6 +120,7 @@ a,
 }
 
 /* Button and Nav Tab States */
+.nav-link:hover,
 a:focus,
 a:focus-visible,
 a:hover,
