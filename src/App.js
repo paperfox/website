@@ -32,12 +32,12 @@ function App() {
           </div>
           <div className="col-sm">
             <a href="">
-              <img src="https://paperfox.github.io/images/cards/back.jpg"  className="w-100" />
+              <img src="../images/puddingway-rectangle.jpg"  className="w-100" />
             </a>
           </div>
           <div className="col-sm">
             <a href="">
-              <img src="https://paperfox.github.io/images/cards/back.jpg"  className="w-100" />
+            <img src="../images/bear-tarot.jpg"  className="w-100" />
             </a>
           </div>
 
