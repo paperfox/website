@@ -14,25 +14,25 @@ function App() {
         </div>
 
         <div className="row justify-content-center mt-3">
-          <div className="col-sm-7 col-md-12 col-lg-8 mt-5">
+          <div className="col-sm-10 col-md-12 col-lg-8 mt-5">
             <h1>Paperfox</h1>
           </div>
         </div>
         <div className="row justify-content-center mt-3 mb-5">
-          <div className="col-sm-7 col-md-6 col-lg-4">
+          <div className="col-sm-10 col-md-6 col-lg-4">
             <h2>Art by Nathalie Garfinkle</h2>
             <div className="mb-5">
               <p>Paperfox is mainly the home of my evolving <a href="https://paperfox.github.io" target="_blank" rel="noreferrer">Tarot app</a>. As a developer professionally and an artist by passion it'd so rewarding to work on something that makes use of such a wide range of my skills. If I'm not poking away at this, I'm likely doodling up some of the card images, playing with my dog, or out in my garden.</p>
               <p>You can find me around on the internet at these links!</p>
             </div>
           </div>
-          <div className="col-sm-7 col-md-6 col-lg-4 paperfox-links">
+          <div className="col-sm-10 col-md-6 col-lg-4 paperfox-links">
             <h2 class="mb-4">Tarot</h2>
             <ul className="list-unstyled">
               <li className="mb-4 w-100">
                 <a href="https://paperfox.github.io" target="_blank" rel="noreferrer" className="p-4">
                   <img src="https://paperfox.github.io/images/paperfoxlogo.svg" alt="" className="convert-to-white me-3" />
-                  <span>Paperfox Tarot App</span>
+                  <span className="pt-1">Paperfox Tarot App</span>
                 </a>
               </li>
             </ul>
@@ -42,13 +42,13 @@ function App() {
               <li className="mb-4 w-50">
                 <a href="https://www.instagram.com/paperfoxmakesart/" target="_blank" rel="noreferrer" className="p-4">
                   <img src="../images/instagramlogo.svg" alt="" className="me-3" />
-                  <span>Instagram</span>
+                  <span className="pt-1">Instagram</span>
                 </a>
               </li>
               <li className="mb-4 w-50">
                 <a href="https://cara.app/paperfox" target="_blank" rel="noreferrer" className="p-4">
                   <img src="../images/cara-app-logo-circle-White.svg" alt="" className="me-3" />
-                  <span>Cara</span>
+                  <span className="pt-1">Cara</span>
                 </a>
               </li>
             </ul>
@@ -58,7 +58,7 @@ function App() {
               <li className="mb-4 w-100">
                 <a href="https://github.com/paperfox" target="_blank" rel="noreferrer" className="p-4">
                   <img src="../images/github-mark.svg" alt="" className="me-3" />
-                  <span>GitHub</span>
+                  <span className="pt-1">GitHub</span>
                 </a>
               </li>
             </ul>
