@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.df295a53.css","mappings":"AAAA,MACE,6CACF,CAEA,QACE,aAAc,CACd,YAAa,CACb,UACF","sources":["static/styles.css"],"sourcesContent":["ul li {\r\n  background-color: rgba(var(--nav-bg-alpha), .8);\r\n}\r\n\r\nul li a {\r\n  display: block;\r\n  padding: 2rem;\r\n  width: 100%;\r\n}"],"names":[],"sourceRoot":""}
